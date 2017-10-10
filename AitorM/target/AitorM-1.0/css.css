@@ -1,0 +1,23 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 26-sep-2017, 17:39:54
+    Author     : Daw2
+*/
+
+
+h1{
+    font-family: sans-serif;
+}
+
+h2{
+    font-family: serif;
+}
+
+#div1{
+    border: 1px blue;
+    margin: 1% auto; 
+}
